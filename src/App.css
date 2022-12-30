@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(255, 255, 255);
+    /* height: 100vh; */
+    /* width: 100vw; */
+}
+
+
+
+
+
+.fullContainer{
+    color: black;
+}
+
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    background-color: rgb(255, 159, 14);
+} */
+
+.font{
+    font-size: 1.5em;
+    font-weight:900;
+    /* color: white; */
+}
+
+.toggleButton{
+    background-color: rgb(34, 34, 34);
+    border-radius: 0.3em;
+    color: white;
+    font-size: large;
+    padding: 0.3em 1em;
+    cursor: pointer;
+}
+
+.fullContainer{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: aqua; */
+}
